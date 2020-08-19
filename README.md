@@ -10,6 +10,8 @@ To get started with UAMP please read the [full guide](docs/FullGuide.md).
 
 ![Screenshot showing UAMP's UI for browsing albums and songs](docs/images/1-browse-albums-screenshot.png "Browse albums screenshot")
 ![Screenshot showing UAMP's UI for playing a song](docs/images/2-play-song-screenshot.png "Play song screenshot")
+![Daily Forecast screen](screenshots/20200818_144957.jpg)
+![Hourly Forecast screen](screenshots/20200818_145009.jpg)
 
 Pre-requisites
 --------------
